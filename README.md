@@ -130,6 +130,7 @@ print(f'Prediction: {prediction}')
 
 ### Dataset Information
 Include screenshot of the generated data
+
 <img width="493" height="528" alt="image" src="https://github.com/user-attachments/assets/eea69a55-a589-4d52-9c35-829d69411217" />
 
 
@@ -137,11 +138,13 @@ Include screenshot of the generated data
 
 ### Training Loss Vs Iteration Plot
 Include your plot here
+
 <img width="554" height="456" alt="image" src="https://github.com/user-attachments/assets/61c99061-df6e-425c-ad00-867a9b43068e" />
 
 
 ### New Sample Data Prediction
 Include your sample input and output here
+
 <img width="361" height="47" alt="image" src="https://github.com/user-attachments/assets/c943f6fe-4ea9-444c-accd-0b68b91415f4" />
 
 
