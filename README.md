@@ -4,10 +4,10 @@
 To develop a neural network regression model for the given dataset.
 
 ## THEORY
-Explain the problem statement
+Regression is a supervised learning technique used to predict continuous numerical values based on input data. In this problem, the goal is to develop a neural network model that learns the relationship between a numeric input and a numeric output from a dataset, and then uses this learned relationship to make predictions on new data. A neural network regression model consists of an input layer, one or more hidden layers, and an output layer. The input is processed through the network using weighted connections and activation functions like ReLU, and the final output layer produces a continuous value using a linear activation function. The model learns by adjusting its weights to minimize the difference between predicted and actual values. Before training, the data is normalized using techniques like Min-Max Scaling to improve performance. The model is trained using a loss function such as Mean Squared Error (MSE) and an optimizer like Adam. After training, the model is evaluated using test data, and its performance can be visualized using plots like the loss curve.
 
 ## Neural Network Model
-Include the neural network model diagram.
+<img width="1044" height="687" alt="image" src="https://github.com/user-attachments/assets/f4b067f7-7ce8-4fa6-90c3-b1795fe1df7d" />
 
 ## DESIGN STEPS
 ### STEP 1: 
@@ -129,7 +129,7 @@ print(f'Prediction: {prediction}')
 ```
 
 ### Dataset Information
-Include screenshot of the generated data
+
 
 <img width="493" height="528" alt="image" src="https://github.com/user-attachments/assets/eea69a55-a589-4d52-9c35-829d69411217" />
 
@@ -137,13 +137,13 @@ Include screenshot of the generated data
 ### OUTPUT
 
 ### Training Loss Vs Iteration Plot
-Include your plot here
+
 
 <img width="554" height="456" alt="image" src="https://github.com/user-attachments/assets/61c99061-df6e-425c-ad00-867a9b43068e" />
 
 
 ### New Sample Data Prediction
-Include your sample input and output here
+
 
 <img width="361" height="47" alt="image" src="https://github.com/user-attachments/assets/c943f6fe-4ea9-444c-accd-0b68b91415f4" />
 
